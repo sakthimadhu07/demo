@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoogleTestCases</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3661cc16-cd4e-4aa2-84b6-f350349c5bf3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>66390259-dc71-41db-a591-d7aa0f725bcb</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/outputdata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>66390259-dc71-41db-a591-d7aa0f725bcb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>803ff03b-1b1d-4d47-8f2b-f138c07fb9b3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>803ff03b-1b1d-4d47-8f2b-f138c07fb9b3</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

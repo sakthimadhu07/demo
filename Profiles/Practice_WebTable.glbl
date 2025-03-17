@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Practice_WebTable</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://practice.expandtesting.com/'</initValue>
+      <name>WebTable_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://practice.expandtesting.com/dynamic-table'</initValue>
+      <name>InsideWebTable_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
