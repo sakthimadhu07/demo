@@ -6,7 +6,8 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.openBrowser("https://www.google.co.in/")
 
 WebUI.maximizeWindow()
-
+WebUI.maximizeWindow()
+WebUI.maximizeWindow()
 
 //WebUI.setText(findTestObject('Object Repository/Google/SearchBar'), Name)
 
